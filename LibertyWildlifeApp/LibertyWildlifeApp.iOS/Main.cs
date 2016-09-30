@@ -14,6 +14,7 @@ namespace LibertyWildlifeApp.iOS
         {
             // if you want to use a different Application Delegate class from "AppDelegate"
             // you can specify it here.
+            //Test Comment
             UIApplication.Main(args, null, "AppDelegate");
         }
     }
